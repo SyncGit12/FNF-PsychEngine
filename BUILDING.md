@@ -43,7 +43,7 @@ to Download the binary for Microsoft Visual Studio with the specific package you
 
  Then there's a BUNCH of commands i won't type here because me = lazy, so i'm going to put this link down below
 
- [Download HaxeFlixel](haxeflixel.com/documentation/install-haxeflixel)
+ [Download HaxeFlixel](https://haxeflixel.com/documentation/install-haxeflixel)
 
    Then you need to download "newgrounds"
    
